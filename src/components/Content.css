@@ -1,0 +1,22 @@
+.content {
+    background: #f9f9f9;
+    padding: 20px 0;
+}
+
+.content h2 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.content ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.content ul li {
+    margin: 10px 0;
+    font-size: 1.2em;
+}
+
+/* Add media queries from original CSS here */
